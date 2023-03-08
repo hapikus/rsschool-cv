@@ -12,7 +12,7 @@ I believe in the power of education, my goal is knowledge, communication and the
 ## Work experience:
 - Jul 2021 - Aug 2022 · IKEA · Business Analyst
 - Sep 2020 - Jun 2021 · IKEA · Country HR System Support Specialist
-- Nov 2016 - Nov 2018 · IKEA · Country SP Specialist Optimization Project RU
+- Dec 2018 - Aug 2020 · IKEA · Country SP Specialist Optimization Project RU
 - Nov 2016 - Nov 2018 · IKEA · People Planning Specialist
 - Jun 2014 - Oct 2016 · IKEA · Easy Buying Specialist
 - Feb 2011 - Feb 2014 · DNS · Salesman
