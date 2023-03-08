@@ -26,7 +26,8 @@ I believe in the power of education, my goal is knowledge, communication and the
 - Figma / Photoshop
 ## Code:
 
-    // You're given an array of integers a and two integers x and y. Count the number of elements in the array such that x ≤ a[i] ≤ y, where i is the 0-based index of the element.
+    // You're given an array of integers a and two integers x and y. 
+    // Count the number of elements in the array such that x ≤ a[i] ≤ y
 
     checkRange=(a, x, y, s=0) => a.map(e => s += e>=Math.min(x, y) === e<=Math.max(x, y)).at(-1) ?? s
 
