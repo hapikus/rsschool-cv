@@ -25,8 +25,25 @@ I believe in the power of education, my goal is knowledge, communication and the
 - Git / GitHub / VS Code
 - Figma / Photoshop
 ## Code:
+
+    // You're given an array of integers a and two integers x and y. Count the number of elements in the array such that x ≤ a[i] ≤ y, where i is the 0-based index of the element.
+
+    checkRange=(a, x, y, s=0) => a.map(e => s += e>=Math.min(x, y) === e<=Math.max(x, y)).at(-1) ?? s
+
 ## Education:
+- [Programming in JavaScript][Stepic JS]
+- [Algorithms: theory and practice][Stepic Algorithms]
+- [Python: Basics and Applying][Stepic Python base]
+- [Programming in Python][Stepic Python]
 ## English B2 (B2+ in progress)
+- [EF SET English Certificate 70/100 (C1 Advanced)][EF Set]
 
 [linkedin]: https://www.linkedin.com/in/sergey-chikunov-656946262/
 [telegram]: https://t.me/hapikus
+
+[Stepic JS]: https://stepik.org/cert/1736186
+[Stepic Algorithms]: https://stepik.org/cert/924516
+[Stepic Python base]: https://stepik.org/cert/901370
+[Stepic Python]: https://stepik.org/cert/376748
+
+[EF Set]: https://www.efset.org/cert/9j7gMM
